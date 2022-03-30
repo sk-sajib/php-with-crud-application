@@ -1,0 +1,21 @@
+{
+    "name": "sajib/good",
+    "autoload": {
+        "psr-4": {
+            "Sajib\\Good\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sk-sajib",
+            "email": "sksajib0000@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}

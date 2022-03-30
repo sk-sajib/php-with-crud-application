@@ -1,0 +1,26 @@
+{
+    "name": "sajib/15_autoloading",
+    "autoload": {
+        "psr-4": {
+            "Sajib\\15Autoloading\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sk-sajib",
+            "email": "sksajib0000@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+   
+
+    
+}

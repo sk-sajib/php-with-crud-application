@@ -1,0 +1,19 @@
+
+// NAMESPACE
+
+- 
+
+
+
+// Composer
+
+- so composer is a php dependency management tool which 
+gives us some possibilities to find packages and install using 
+composer
+
+
+// auto_loading
+
+autoloading give us possibilities to avoid writing required_once for classes, interfaces
+
+

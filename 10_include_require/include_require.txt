@@ -1,0 +1,5 @@
+
+// require -> method used a when a file is obviously necessary for functionality or website and if it's can find error once it will 
+stop executing rest of the code
+
+// include will never stop executing rest of the code once it's can find error.
